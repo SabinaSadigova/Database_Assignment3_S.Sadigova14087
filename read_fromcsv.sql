@@ -1,3 +1,3 @@
-select * from public."wholenorm"       --Read the csv file 
+select * from public."wholenorm"       -- Read the csv file 
 
 
