@@ -11,7 +11,7 @@ CREATE TABLE public.wholenorm_nf (
     "Pages" integer,
     "Year" integer,
     "Course name" character(255),
-    PRIMARY KEY ("CRN", "ISBN", "Author")
+    PRIMARY KEY ("CRN", "ISBN")
 );
 
 -- Spliting authors and insert each one into wholenorm_1nf
